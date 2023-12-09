@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.012a9b0a.css",
+    "main.js": "/portfolio/static/js/main.d57f4d34.js",
+    "static/js/787.69af0555.chunk.js": "/portfolio/static/js/787.69af0555.chunk.js",
+    "static/media/background.jpeg": "/portfolio/static/media/background.2c8aca5944d92e4e765a.jpeg",
+    "static/media/photo.jpeg": "/portfolio/static/media/photo.0f362a1ec5e8cee1f280.jpeg",
+    "static/media/silicon_india.jpeg": "/portfolio/static/media/silicon_india.c0b15cec6e5485a5c241.jpeg",
+    "index.html": "/portfolio/index.html",
+    "main.012a9b0a.css.map": "/portfolio/static/css/main.012a9b0a.css.map",
+    "main.d57f4d34.js.map": "/portfolio/static/js/main.d57f4d34.js.map",
+    "787.69af0555.chunk.js.map": "/portfolio/static/js/787.69af0555.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.012a9b0a.css",
+    "static/js/main.d57f4d34.js"
+  ]
+}
